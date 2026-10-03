@@ -1,2 +1,3 @@
 # Mi Proyecto
 # Primer cambio en README
+git init: Inicializa un repositorio de Git en la carpeta actual.   git add: Añade los archivos modificados al área de preparación (staging).   git commit: Guarda definitivamente en el historial la versión actual de los archivos preparados.   git push: Sube los cambios confirmados (commits) desde el entorno local hacia GitHub.   git status: Muestra qué archivos están modificados, listos para commit o sin seguimiento.   git diff: Muestra las diferencias exactas de código entre la versión actual y la anterior.   git log: Muestra el historial completo de los commits del proyecto.   git restore / git reset: Sirven para deshacer cambios, ya sea descartando modificaciones o devolviendo archivos de estados staging o commits. 
